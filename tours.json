@@ -1,0 +1,35 @@
+[
+    {
+        "country": {
+            "capital": "Kyiv",
+            "currency": "UAH",
+            "language": "ukrainian",
+            "name": "Ukraine",
+            "population": 43.0
+        },
+        "price": 4569.0,
+        "tourName": "newTour"
+    },
+    {
+        "country": {
+            "capital": "Rome",
+            "currency": "Lira",
+            "language": "italian",
+            "name": "Italy",
+            "population": 59.0
+        },
+        "price": 1456.0,
+        "tourName": "secondTour"
+    },
+    {
+        "country": {
+            "capital": "Madrid",
+            "currency": "peset",
+            "language": "spanish",
+            "name": "Spain",
+            "population": 47.0
+        },
+        "price": 1500.0,
+        "tourName": "ThirdTour"
+    }
+]

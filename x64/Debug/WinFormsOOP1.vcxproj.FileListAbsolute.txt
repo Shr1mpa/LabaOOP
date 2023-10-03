@@ -1,0 +1,4 @@
+D:\C++\WinFormsOOP1\WinFormsOOP1\x64\Debug\WinFormsOOP1.vcxproj.AssemblyReference.cache
+D:\C++\WinFormsOOP1\WinFormsOOP1\x64\Debug\WinFormsOOP1.vcxproj.SuggestedBindingRedirects.cache
+D:\C++\WinFormsOOP1\WinFormsOOP1\x64\Debug\WinFormsOOP1.MainForm.resources
+D:\C++\WinFormsOOP1\WinFormsOOP1\x64\Debug\WinFormsOOP1.vcxproj.GenerateResource.cache
